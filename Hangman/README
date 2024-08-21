@@ -1,0 +1,7 @@
+This is a simple game that was made purely for enjoyment.
+
+It is made completely with python and requires 2 players.
+
+Player 1's only job is to input a word that is to be guessed by the other player. Just like normal hangman, the other player
+may guess words or letters, guess a wrong letter and it adds a limb to the man, guess a wrong word, and 2 limbs get added.
+When the man has 6 limbs you lose and the man gets hung.
