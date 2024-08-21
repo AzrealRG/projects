@@ -1,0 +1,6 @@
+This is a simple banking program that is made with python. In this case, it requires the 'record.txt' file
+in order for it to edit and keep track of previous transactions and balances.
+
+This program is made so that I can easily keep track of how my income fairs agains't the expenese that I have.
+It's very simple to use and allows for quick updates to be made to the finances and you can see the balance after each
+transaction, be it a deposit or a withdrawl. 
